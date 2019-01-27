@@ -1,4 +1,4 @@
-# raect-filters-woocommerce
+# react-filters-woocommerce
 
 #### build
 
